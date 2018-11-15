@@ -8,10 +8,6 @@ The Belly Button Analysis dashboard is available for a preview at [https://belly
 ------------------
 
 
-<!-- # Belly Button Biodiversity Analysis -->
-
-<!-- ![jpg](images/image1.jpg) -->
-
 Belly Button Biodiversity Analysis uses an interactive dashboard to explore the [Belly Button Biodiversity Showcase DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
 Interactive charts for the dashboard were build using Plotly.js
