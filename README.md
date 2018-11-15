@@ -1,7 +1,25 @@
-# Belly Button Biodiversity
+# Belly Button Biodiversity Analysis
 
 ## Data Visualization Dashboard
 
-This interactive dashboard will explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
+The Belly Button Analysis dashboard is available for a preview at [https://bellybutton-analysis.herokuapp.com/](https://bellybutton-analysis.herokuapp.com/).
 
-The Belly Button Dashboard can be found [https://belly-button-heroku.herokuapp.com/](https://belly-button-heroku.herokuapp.com/).
+ 
+------------------
+
+
+<!-- # Belly Button Biodiversity Analysis -->
+
+<!-- ![jpg](images/image1.jpg) -->
+
+Belly Button Biodiversity Analysis uses an interactive dashboard to explore the [Belly Button Biodiversity Showcase DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
+
+Interactive charts for the dashboard were build using Plotly.js
+
+## Plotly.js Pie Chart
+
+![png](Images/pie_chart.png)
+
+## Plotly.js Bubble Chart
+
+![png](images/bubble_chart.png)
