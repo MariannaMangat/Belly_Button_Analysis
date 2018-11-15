@@ -14,7 +14,7 @@ Interactive charts for the dashboard were build using Plotly.js
 
 ## Plotly.js Pie Chart
 
-![png](Images/pie_chart.png)
+![png](images/pie_chart.png)
 
 ## Plotly.js Bubble Chart
 
